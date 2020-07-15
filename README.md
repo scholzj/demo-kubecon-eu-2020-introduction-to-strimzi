@@ -7,7 +7,7 @@
 
 ## Install the Strimzi operator
 
-* `kubectl apply -f 'https://strimzi.io/install/latest?namespace=kafka'`
+* `kubectl apply -f 'https://strimzi.io/install/latest?namespace=kafka'`
 * Explain what it installs
 * Mention other installation methods: Helm Charts, Operator Hub
 
